@@ -1,0 +1,1 @@
+%NETCAT_HOME%/nc -vv -l -p 9999
